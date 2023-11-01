@@ -1,14 +1,22 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: My sample book
-author: ENGRC 3400 Fall 2023 User Document Project
-logo: logo.png
+title: ENGRC 3500 Fall 2023 User Document Project
+author: Katherine Z., Nikita K., Raj D.
+
+sphinx:
+  config:
+    html_theme_options: 
+      logo:
+        image_light: help-light.png
+        image_dark: help-dark.png
+
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
   execute_notebooks: force
+
 
 # Define the name of the latex output file for PDF builds
 latex:
@@ -30,3 +38,6 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+  hypothesis: true
+
+

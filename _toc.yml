@@ -2,8 +2,10 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+root: content/intro.md
+parts:
+  - caption: Android
+    chapters:
+    - file: content/google_pixel/AndroidAccessibility/AndroidAccessibility
+    - file: content/google_pixel/AndroidPlayStore/AndroidPlayStore
+    - file: content/google_pixel/AndroidUnlocking/AndroidUnlocking
