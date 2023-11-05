@@ -1,6 +1,6 @@
 # The App Store
 
-To get started, we will first learn how to download an app. The App Store is what allows us to do this. It has an icon like this: (insert image), and comes preinstalled on every iPhone. 
+To get started, we will first learn how to download an app. The App Store is what allows us to do this. It has an icon like this: ![App Store Icon](images/app-store-icon.png), and comes preinstalled on every iPhone. 
 
 First, locate the app. If you have not moved your apps around, it is likely on the first page. Opening the app will take you to the App Store homepage, which looks something like this (insert image). At the bottom of the screen, you'll see five icons: Today, games, apps, arcade, and search. Click on the search icon.
 
