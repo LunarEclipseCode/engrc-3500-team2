@@ -5,8 +5,7 @@ To get started, we will first learn how to download an app. The App Store is wha
 and comes preinstalled on every iPhone. 
 
 First, locate the app. If you have not moved your apps around, it is likely on the first page. Opening the app will take you to the App Store homepage, which looks something like this: 
-![App Store Homepage](images/app-store-homepage.png)
-<img src="images/app-store-homepage.png" width=100 height=300>
+<img src="images/app-store-homepage.png" width=222 height=438>
 
 At the bottom of the screen, you'll see five icons: Today, games, apps, arcade, and search. Click on the search icon.
 
