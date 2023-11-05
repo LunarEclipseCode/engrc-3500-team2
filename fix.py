@@ -7,7 +7,6 @@ script_directory = os.path.dirname(os.path.abspath(__file__))
 # Directory containing the HTML files
 html_directory = os.path.join(script_directory, '_build', 'html', 'content')
 
-
 # HTML code block to be inserted
 github_block = '''
     <div class="dropdown dropdown-source-buttons">
@@ -53,6 +52,7 @@ github_block = '''
   </div>
 '''
 
+# code block to have link to homepage in the sidebar
 homepage_block = '''
 
         <ul class="nav bd-sidenav bd-sidenav__home-link">
@@ -64,7 +64,48 @@ homepage_block = '''
         </ul>
 '''
 
-            
+google_form = ''''<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeSYc5M8ci_heB02N-iVcbPs-Px6n8hgmtrGe7qbP-k4nkrAw/viewform?embedded=true" width="700" height="610" frameborder="0" marginheight="0" marginwidth="0">Loading</iframe>'''
+
+choose_language =''''
+  <div class="dropdown dropdown-language-buttons">
+    <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+      <i class="fa-solid fa-language"></i>
+    </button>
+    <ul class="dropdown-menu">
+      
+        
+        <li><a href="https://github.com/LunarEclipseCode/engrc-3500-team2" target="_blank"
+     class="btn btn-sm btn-source-repository-button dropdown-item"
+     title="English"
+     data-bs-placement="left" data-bs-toggle="tooltip"
+  >
+    
+  
+  <span class="btn__icon-container">
+    </span>
+  <span class="btn__text-container">English</span>
+  </a>
+  </li>
+        
+
+        <li><a href="https://github.com/LunarEclipseCode/engrc-3500-team2/issues" target="_blank"
+     class="btn btn-sm btn-source-issues-button dropdown-item"
+     title="Mandarin"
+     data-bs-placement="left" data-bs-toggle="tooltip"
+  >
+  
+  <span class="btn__icon-container">
+    </span>
+  <span class="btn__text-container">Mandarin</span>
+  </a>
+  </li>
+        
+    </ul>
+  </div>
+  
+  '''
+  
+
 def add_content(file_path, class_name, add_code):
     with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read()
@@ -81,10 +122,20 @@ def add_content(file_path, class_name, add_code):
         with open(file_path, 'w', encoding='utf-8') as file:
             file.write(content)
             
-
+def add_google_form(file_path):
+    with open(file_path, 'r', encoding='utf-8') as file:
+        content = file.read()
+        
+        last_index = content.rfind('</section>')
+        if last_index != -1:
+            updated_html = content[:last_index]+ google_form + content[last_index + len('</section>'):]
+        
+        with open(file_path, 'w', encoding='utf-8') as file:
+            file.write(updated_html)
+            
 
 # Source and destination directories
-source_directory = os.path.join(script_directory,'content')  # Directory containing images and gifs
+source_directory = os.path.join(script_directory,'content')  
 
 # Function to copy images from source to destination directory
 def copy_images(source, destination):
@@ -110,6 +161,15 @@ for root, dirs, files in os.walk(html_directory):
             
             add_content(file_path, '<div class="article-header-buttons">', github_block)
             add_content(file_path, '<div class="bd-toc-item navbar-nav active">', homepage_block)
+            
+            
+            if filename != 'intro.html':
+                add_google_form(file_path)
+            
 
-# Copy images from source to destination directory
+
+# Add the images corresponding to html files in the proper folder
 copy_images(source_directory, html_directory)
+
+    
+

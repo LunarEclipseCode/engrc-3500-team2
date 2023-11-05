@@ -1,11 +1,12 @@
 # Welcome to Smartphone Tutorials
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic.
+This is a small project aimed to make using smartphones easier for people aged between 40 and 65. 
 
-Check out the content pages bundled with this sample book to see more.
+From our personal experience, many people in the mentioned age range still use smartphones for very basic purposes, like calling, texing, listening to music, and little bit of surfing the internet. But smartphones these days can do so much more.  We think knowing some of these features can make an improvement in the quality of life of our target audience. For that reason, we are building this site to create a detailed step-by-step tutorial that anyone can follow.
+
+You can let us know your thoughts on the website through the feedback survey at the end of each tutorial or by the comment secion. To comment, click on the small < sign in the right-hand corner.
+
+This website is still under construction. Expect to see more tutorials and multilingual support coming to the site very soon.
 
 ```{tableofcontents}
 

@@ -6,6 +6,16 @@ root: content/intro.md
 parts:
   - caption: Android
     chapters:
-    - file: content/google_pixel/AndroidAccessibility/AndroidAccessibility
-    - file: content/google_pixel/AndroidPlayStore/AndroidPlayStore
     - file: content/google_pixel/AndroidUnlocking/AndroidUnlocking
+    - file: content/google_pixel/AndroidPlayStore/AndroidPlayStore
+    - file: content/google_pixel/AndroidAccessibility/AndroidAccessibility
+    - file: content/samsung/block_spam/block_spam
+    - file: content/samsung/adblocker/adblocker
+  
+  - caption: iPhone
+    chapters:
+    - file: content/iPhone/tutorial4-buttons
+    - file: content/iPhone/tutorial1-downloading-apps-iphone
+    - file: content/iPhone/tutorial3-apple-id
+    
+    
