@@ -18,6 +18,7 @@ To install a new app, open the Play Store and type the name of the app you want.
 
 <img src="AndroidPlayStoreScreen.png" width="300">
 <img src="AndroidInstallApp.gif" width="300">
+<br></br>
 
 Return back to the home screen by tapping the home button (big circle at the bottom of the screen). You should now be able to see the app in your App Drawer! You can tap on it to open it.
 

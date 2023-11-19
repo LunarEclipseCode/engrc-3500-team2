@@ -4,13 +4,24 @@
 format: jb-book
 root: content/intro.md
 parts:
-  - caption: Android
+  - caption: Google Pixel
     chapters:
     - file: content/google_pixel/AndroidUnlocking/AndroidUnlocking
     - file: content/google_pixel/AndroidPlayStore/AndroidPlayStore
     - file: content/google_pixel/AndroidAccessibility/AndroidAccessibility
+    - file: content/google_pixel/AndroidEmail/AndroidEmail
+  
+  - caption: Samsung
+    chapters:
+    - file: content/samsung/change_wallpaper/change_wallpaper
     - file: content/samsung/block_spam/block_spam
     - file: content/samsung/adblocker/adblocker
+
+  - caption: Xiaomi
+    chapters:
+    - file: content/xiaomi/change_wallpaper/change_wallpaper
+    - file: content/xiaomi/color_blind_friendly/color_blind_friendly
+    - file: content/xiaomi/one_handed_mode/one_handed_mode
   
   - caption: iPhone
     chapters:

@@ -22,7 +22,7 @@ Here, you can type the name of the app you want, or a category of apps and games
 
 Click the "get" button next to the desired app to install the app. In some cases, you will need to scroll down to find the app you are looking for. 
 
-You will be prompted to confirm your identity via face ID or your Apple ID password. A guide to setting up your Apple ID is [here](https://lunareclipsecode.github.io/engrc-3500-team2/content/iPhone/tutorial3-apple-id.html). 
+You will be prompted to confirm your identity via face ID or your Apple ID password. A guide to setting up your Apple ID is [here](https://github.com/LunarEclipseCode/engrc-3500-team2/blob/main/content/iPhone/tutorial3-apple-id.md). 
 
 After confirming, the download will start automatically. Once it is complete, the app will be displayed on your home screen, and will also be in your app library, for you to access. 
 
