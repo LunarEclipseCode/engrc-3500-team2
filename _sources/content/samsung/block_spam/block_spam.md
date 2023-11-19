@@ -6,15 +6,13 @@ From the home screen click on the phone icon (circled in the left picture).
 
 <img src="click_phone.jpg" width="300">
 <img src="click_3dots.jpg" width="300">
-
-
+<br></br>
 
 Now click on 'Settings'. Then click on the toggle beside 'Caller ID and Spam Protection'.
 
 <img src="click_settings.jpg" width="300">
 <img src="click_spam_protect.jpg" width="300">
-
-
+<br></br>
 
 When enabled, it will turn green. That's it! In just 4 clicks, you have made your life so easier. You will get much less spam calls from now on.
 

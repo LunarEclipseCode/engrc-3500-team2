@@ -4,6 +4,7 @@ Sometimes, your phone is difficult to read or use! Fortunately, Android phones h
 
 <img src="AndroidSettings.png" width="300">
 <img src="AndroidOpenSettings.gif" width="300">
+<br></br>
 
 Scroll down until you see a button that says Accessibility. There will be a person holding their hands out on it. Tap on this button.
 
@@ -37,7 +38,6 @@ If you find it hard to read on a white background, you can use the Dark theme to
 
 <img src="AndroidDarkMode.png" width="300">
 <img src="AndroidDarkModeEnable.gif" width="300">
-
 
 #### Other options
 
