@@ -20,7 +20,7 @@ Now click on 'Accessibility' and then go to the 'Vision' section.
 <img src="click_vision.jpg" width="300">
 <br></br>
 
-Now if you go to 'Color Correction', you will see different color palettes based on the tyep of color blindness. That's it! 
+Now if you go to 'Color Correction', you will see different color palettes based on the type of color blindness. That's it! 
 
 <img src="color_correct.jpg" width="300">
 <img src="select_mode.jpg" width="300">

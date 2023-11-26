@@ -167,9 +167,48 @@ for root, dirs, files in os.walk(html_directory):
                 add_google_form(file_path)
             
 
-
 # Add the images corresponding to html files in the proper folder
 copy_images(source_directory, html_directory)
+
+#fix the intro.html relative link
+apple_dir = os.path.join(html_directory, 'iPhone')
+
+for root, dirs, files in os.walk(apple_dir):
+    for file in files:
+        if file.endswith(".html"):
+            file_path = os.path.join(root, file)
+
+            # Read the contents of the file
+            with open(file_path, 'r', encoding='utf-8') as f:
+                file_contents = f.read()
+
+            # Replace the old string with the new string
+            new_contents = file_contents.replace("../../intro.html", "../intro.html")
+
+            # Write the modified contents back to the file
+            with open(file_path, 'w', encoding='utf-8') as f:
+                f.write(new_contents)
+
+# copy over the logo into static              
+dark_logo = os.path.join(script_directory, "help-dark.png")
+light_logo = os.path.join(script_directory, "help-light.png")
+move_logo = os.path.join(script_directory, '_build', 'html', '_static')
+
+shutil.copy(dark_logo, move_logo)
+shutil.copy(light_logo, move_logo)
+     
+# fix relative directory in intro.html   
+intro_file = os.path.join(html_directory, 'intro.html')
+        
+with open(intro_file, 'r') as file:
+    content = file.read()
+    
+content = content.replace("../../intro.html", "intro.html")
+
+with open(intro_file, 'w') as file:
+    file.write(content)
+
+
 
     
 

@@ -14,12 +14,20 @@ parts:
   - caption: Samsung
     chapters:
     - file: content/samsung/change_wallpaper/change_wallpaper
+    - file: content/samsung/change_ringtone/change_ringtone
+    - file: content/samsung/battery_health/battery_health
+    - file: content/samsung/software_update/software_update
     - file: content/samsung/block_spam/block_spam
     - file: content/samsung/adblocker/adblocker
+    - file: content/samsung/color_blind_friendly/color_blind_friendly
+    - file: content/samsung/maintenance_mode/maintenance_mode
 
   - caption: Xiaomi
     chapters:
     - file: content/xiaomi/change_wallpaper/change_wallpaper
+    - file: content/xiaomi/change_ringtone/change_ringtone
+    - file: content/xiaomi/screenshot/screenshot
+    - file: content/xiaomi/app_update/app_date
     - file: content/xiaomi/color_blind_friendly/color_blind_friendly
     - file: content/xiaomi/one_handed_mode/one_handed_mode
   
