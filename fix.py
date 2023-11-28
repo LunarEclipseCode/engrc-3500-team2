@@ -1,5 +1,6 @@
 import os
 import shutil
+import fileinput
 
 # Get the directory of the script
 script_directory = os.path.dirname(os.path.abspath(__file__))
@@ -177,17 +178,18 @@ for root, dirs, files in os.walk(apple_dir):
     for file in files:
         if file.endswith(".html"):
             file_path = os.path.join(root, file)
+            
+            if root == apple_dir:
+              # Read the contents of the file
+              with open(file_path, 'r', encoding='utf-8') as f:
+                  file_contents = f.read()
 
-            # Read the contents of the file
-            with open(file_path, 'r', encoding='utf-8') as f:
-                file_contents = f.read()
+              # Replace the old string with the new string
+              new_contents = file_contents.replace("../../intro.html", "../intro.html")
 
-            # Replace the old string with the new string
-            new_contents = file_contents.replace("../../intro.html", "../intro.html")
-
-            # Write the modified contents back to the file
-            with open(file_path, 'w', encoding='utf-8') as f:
-                f.write(new_contents)
+              # Write the modified contents back to the file
+              with open(file_path, 'w', encoding='utf-8') as f:
+                  f.write(new_contents)
 
 # copy over the logo into static              
 dark_logo = os.path.join(script_directory, "help-dark.png")

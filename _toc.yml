@@ -35,6 +35,10 @@ parts:
     chapters:
     - file: content/iPhone/tutorial4-buttons
     - file: content/iPhone/tutorial1-downloading-apps-iphone
+    - file: content/iPhone/change_wallpaper/change_wallpaper
+    - file: content/iPhone/change_ringtone/change_ringtone
+    - file: content/iPhone/block_spam/block_spam
+    - file: content/iPhone/color_blind_friendly/color_blind_friendly
     - file: content/iPhone/tutorial3-apple-id
     
     

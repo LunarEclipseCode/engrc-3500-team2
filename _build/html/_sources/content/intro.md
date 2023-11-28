@@ -7,7 +7,3 @@ From our personal experience, many people in the mentioned age range still use s
 You can let us know your thoughts on the website through the feedback survey at the end of each tutorial or by the comment secion. To comment, click on the small < sign in the right-hand corner.
 
 This website is still under construction. Expect to see more tutorials and multilingual support coming to the site very soon.
-
-```{tableofcontents}
-
-```

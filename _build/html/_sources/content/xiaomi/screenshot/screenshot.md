@@ -10,7 +10,7 @@ A screenshot is basically a captured image of the content currently displaying o
 
 There are different ways to take screenshot and we will go over them in this tutorial.
 
-## Full Screen Screenshot
+#### Full Screen Screenshot
 
 First, go to 'Settings' and scroll down to 'Additional Settings'.
 
@@ -40,7 +40,7 @@ You can also scroll down from top twice and then click on 'Screenshot' to take t
 
 Congratulations! Now, you can view your screnshot from the gallery or photos app on your phone.
 
-## Partial Screenshot
+#### Partial Screenshot
 
 You can always go back to your screenshot and crop and just keep a specific part of your screenshot. But instead of cropping a full-screen screenshot, you can just capture only a specific area on your phone. This is called partial screenshot. 
 
@@ -63,7 +63,7 @@ The phone will tell you in an animation to click and drag anywhere on the screen
 
 That's it! You have successfully taken a partial screenshot.
 
-## Long Screenshot
+#### Long Screenshot
 
 There can be times where you might want to take screenshot of a long menu. Instead of taking multiple screenshots, you can take one long screenshot that contains the entire menu. For this example, we will try to capture the entire settings menu in one screenshot.
 

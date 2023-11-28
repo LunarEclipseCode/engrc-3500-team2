@@ -8,7 +8,7 @@ There are basically two forms of update in a smartphone. You can update your ins
 
 We will now go over how to keep you apps and software up to date. 
 
-## Updating Installed Apps
+#### Updating Installed Apps
 
 First, go to the Play Store and then click on your profile picture in the top right hand corner.
 
@@ -32,7 +32,7 @@ Note that updating all apps can take some time depending on how many apps you ne
 
 That's all there is to it regarding updating apps on your phone. Let's now see how to update the overall software on your phone.
 
-## Installing Software Update
+#### Installing Software Update
 
 First, go to the Settings menu by either clicking on the gear icon or scrolling down on your home screen and clicking on the gear icon in top right hand corner.
 
