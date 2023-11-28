@@ -1,6 +1,6 @@
 # Blocking Spam Calls
 
-Are you annoyed by calls like, "Your car's extended warranty has expired..." when you clearly you it hasn't. These spam calls are one of the main patthways scammers are taking away confidential informattion and money everyday from many innocent people. However, you can block spam calls in your phone in just a couple of clicks.
+Are you annoyed by calls like, "Your car's extended warranty has expired..." when you clearly you it hasn't. These spam calls are one of the main pathways scammers are taking away confidential informattion and money everyday from many innocent people. However, you can block spam calls in your phone in just a couple of clicks.
 
 From the home screen click on the phone icon (circled in the left picture). 
 

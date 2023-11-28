@@ -4,7 +4,7 @@ If you ever need to take your phone to a repair shop, chances are they will ask 
 
 For such purposes, maintenance mode comes to the rescue. In this mode, the repair shop cannot access your contacts, messages, apps, accounts, and other files like pictures, music, and downloads. The repair person will still have access to settings menu and all the pre-installed apps i.e. applications that were already on your phone when you first bought it. After the repair shop gives back your phone, you can just enter the phone's password to get back to normal mode. Moreover, when you switch from maintenance mode to regular mode, all apps installed or files downloaded by the repair shop will be removed.
 
-### Switching to Maintenance Mode
+#### Switching to Maintenance Mode
 
 You can switch to maintenance mode in just a couple of steps. First, go to the Settings menu by either clicking on the gear icon or scrolling down on your home screen and clicking on the top right hand corner.
 
@@ -34,9 +34,8 @@ Now, to switch to maintenance mode, click on 'Turn on'. It will popup a new mess
 
 <img src="waiting.jpg" width="300">
 <img src="disable_log.jpg" width="300">
-<br></br>
 
-### Inside Maintenance Mode
+#### Inside Maintenance Mode
 
 After restart, you will in the left corner, the phone telling that you are in maintenance mode. In the list of apps, we can only see apps that was already on the phone when we first bought it.
 
@@ -54,9 +53,8 @@ Moreover, if we go to 'Downloads' folder, the phone will show its empty. Going i
 
 <img src="maintain_download.jpg" width="300">
 <img src="maintain_gmail.jpg" width="300">
-<br></br>
 
-### Exit Maintenance Mode
+#### Exit Maintenance Mode
 
 To exit this mode, scroll down to see the notifications. Here you will see 'Your phone is in Maintenance mode. Tap here to exit', Let's click on it. Now, in the new page, click 'Exit'.
 
