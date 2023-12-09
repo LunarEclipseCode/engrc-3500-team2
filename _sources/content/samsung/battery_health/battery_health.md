@@ -8,7 +8,7 @@ Unfortunately, fully charging your phone everyday can degrade the battery health
 
 * Charging phone multiple times a day so that the phone's charge is always above 90%.
 
-Although we cannot stop the battery health degration process, we can slow it down. A recent research has shown that your phone's battery health stays in best shape if you charge it only upto 85% and start recharging when the battery is around 25%. As smartphone chips are very efficient these days, 85% battery is more than enough to last an entire day. But how do you make sure that your phone stops taking charge after a certain point? Well, many new phones released in the past 2-3 years have added a feature that stops charging your phone after 85%. You can enable this feature in just a couple of clicks.
+Although we cannot stop the battery health degration process, we can slow it down. A recent research has shown that your phone's battery health stays in best shape if you charge it only upto 85% and start recharging when the battery is around 25%. [^1] As smartphone chips are very efficient these days, 85% battery is more than enough to last an entire day. But how do you make sure that your phone stops taking charge after a certain point? Well, many new phones released in the past 2-3 years have added a feature that stops charging your phone after 85%. You can enable this feature in just a couple of clicks.
 
 First, go to the Settings menu by either clicking on the gear icon or scrolling down on your home screen and clicking on the top right hand corner.
 
@@ -40,3 +40,5 @@ Now, click on anywhere on the 'Protect Battery' tab to enable this feature. When
 <br></br>
 
 Congratulations! You have successfully boosted the longevity of your smartphone. Don't be afraid to explore the settings menu and discover many other interesting features!
+
+[^1]: B. Xu, A. Oudalov, A. Ulbig, G. Andersson and D. S. Kirschen, "Modeling of Lithium-Ion Battery Degradation for Cell Life Assessment," in IEEE Transactions on Smart Grid, vol. 9, no. 2, pp. 1131-1140, March 2018, doi: 10.1109/TSG.2016.2578950.

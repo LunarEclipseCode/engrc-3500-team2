@@ -5,9 +5,9 @@ If you pass in sunlight through a prism, the light will be spread out into a rai
 <img src="prism01.jpg">
 <br></br>
 
-than other colors of light. However, as sun is so far away from away from us, the blue light in sunlight is not a concern. However, what is concerning is the blue light emitted from digital screens like smartphone, laptops, etc. As these devices are typically used really close to our eyes, longtime exposure to digital screen can cause eye strain, blurred vision, and headaches due to the emitted blue light. 
+than other colors of light. However, as sun is so far away from away from us, the blue light in sunlight is not a concern. However, what is concerning is the blue light emitted from digital screens like smartphone, laptops, etc. As these devices are typically used really close to our eyes, longtime exposure to digital screen can cause eye strain, blurred vision, and headaches due to the emitted blue light. [^1]
 
-Blue light can also reduce the production of melatonin, the hormone responsible for making us sleepy. So, using smartphone for hours before going to sleep can make it difficult to fall asleep. Thankfully, most smartphones come with blue light filter these days. Enabling this feature will give the display a brownish tint and reduce the amount of emitted blue light.
+Blue light can also reduce the production of melatonin, the hormone responsible for making us sleepy.[^1] So, using smartphone for hours before going to sleep can make it difficult to fall asleep. Thankfully, most smartphones come with blue light filter these days. Enabling this feature will give the display a brownish tint and reduce the amount of emitted blue light.
 
 On Samsung phones, to enable blue light filter, First, go to the Settings menu by either clicking on the gear icon or scrolling down on your home screen and clicking on the top right hand corner.
 
@@ -62,3 +62,5 @@ To enable eye comfort shield / blue light filter easily, just scroll down from t
 <br></br>
 
 Congratulations! Now you know all there is to blue light filter. Feel free to explore the settings menu on your phone to discover more interesting features. 
+
+[^1]: C. Health, “How blue light affects your eyes, sleep, and health,” cultivating-health. Available: https://health.ucdavis.edu/blog/cultivating-health/blue-light-effects-on-your-eyes-sleep-and-health/2022/08
