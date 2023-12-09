@@ -27,7 +27,7 @@ The end call button ends the current FaceTime call.
 
 There are also some buttons on the bottom of you screen. There is one in the bottom left corner, which can be used to take a picture of the screen (without the buttons on it, differentiating this picture from a screenshot). The other useful button is in the bottom right corner, where your video feed is. 
 
-<img title="" src="images/facetime-buttons2.png" alt="" width="100" height="100" data-align="center">
+<img title="" src="images/facetime-buttons2.png" alt="" width="236" height="508" data-align="center">
 
 This button is used to change the direction of your camera. It is default to use the front facing camera, but you can switch it to the back camera by tapping the button, and back to the front facing camera by tapping it again.
 
