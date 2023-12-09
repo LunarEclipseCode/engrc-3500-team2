@@ -6,7 +6,7 @@ Your Apple ID is what allows you to access data from one device on another. It i
 ## Ways to set up
 You can create your Apple ID when you first set up your phone, or later.
 
-### Setting up Apple ID when first setting up an iPhone
+### Setting up Apple ID when first setting up an iPhone [^1]
 When setting up your iPhone for the first time, you will come across a screen that prompts you to add an Apple ID. Select "create your Apple ID" when you set up your device. Then, tap "Forgot password or don't have an Apple ID?" when prompted. 
 
 Tap Create a Free Apple ID.
@@ -24,4 +24,4 @@ Tap on the circular icon at the top right of the screen. This will take you to y
 
 
 
-<img title="" src="file:///D:/College/7th%20Semester/ENGRC%203500/group_project_update/engrc-3500-team2/content/iPhone/images/under-construction.png" alt="" width="393" data-align="center">
+[^1]: https://support.apple.com/en-us/108647
