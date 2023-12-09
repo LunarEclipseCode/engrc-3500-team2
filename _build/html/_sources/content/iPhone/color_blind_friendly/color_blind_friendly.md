@@ -1,6 +1,6 @@
 # Color Blind Friendly Mode
 
-Colorblindness is more prevalent than people might think. There are approxiately 300 million colorblind people worldwide. To accomodate for these people, modern smartphones have color blind friendly mode that can boost the user experience for color-blind people.
+Colorblindness is more prevalent than people might think. There are approxiately 300 million colorblind people worldwide. [^1] To accomodate for these people, modern smartphones have color blind friendly mode that can boost the user experience for color-blind people.
 
 First, we need to go to the settings menu. To do this, keep on swiping to the right from the home screen and the last page you reach is the app library. The app library page will look like the image to the left. From here, search for 'Settings' in the top search bar and the settings app will come up in the result. Click on 'Settings'.
 
@@ -26,3 +26,5 @@ Now, you can click on the toggle beside 'Color Filters' to enable it. When it's 
 <br></br>
 
 That's all there is to it! Feel free to explore the settings menu on your phone to discover many other interesting features.
+
+[^1]: https://www.colourblindawareness.org/colour-blindness/

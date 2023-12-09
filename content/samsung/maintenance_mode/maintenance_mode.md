@@ -1,6 +1,6 @@
 # Maintenance Mode
 
-If you ever need to take your phone to a repair shop, chances are they will ask to you to leave the phone for a couple of days while they diagnose the problem, find replacement parts, and fix your phone. But after they have fixed the phone, they might need access to the phone to check everything is working properly. But for privacy concerns, you probably don't want the repair person to have access to your sensitive information like contacts, messages, google account, etc. So, how do you give someone access to basic functionalities of your phone while blocking access to personal information?
+If you ever need to take your phone to a repair shop, chances are they will ask to you to leave the phone for a couple of days while they diagnose the problem, find replacement parts, and fix your phone. But after they have fixed the phone, they might need access to the phone to check everything is working properly. But for privacy concerns, you probably don't want the repair person to have access to your sensitive information like contacts, messages, google account, etc. Not to mention, researchers have found that most repair shops are not trustworthy. In a study conducted in 2022, the researchers asked 18 repair shops to for battery replacement on a laptop, a repair that doesn't require login information. However, all repair shops except one asked for login information from the customer. [^1] Considering this problem, how do you give someone access to basic functionalities of your phone while blocking access to personal information?
 
 For such purposes, maintenance mode comes to the rescue. In this mode, the repair shop cannot access your contacts, messages, apps, accounts, and other files like pictures, music, and downloads. The repair person will still have access to settings menu and all the pre-installed apps i.e. applications that were already on your phone when you first bought it. After the repair shop gives back your phone, you can just enter the phone's password to get back to normal mode. Moreover, when you switch from maintenance mode to regular mode, all apps installed or files downloaded by the repair shop will be removed.
 
@@ -68,3 +68,5 @@ It will now show a confirmation popup. Click on 'Restart'. The phone will then a
 <br></br>
 
 Congratulations! Now, you know all about maintenance mode.
+
+[^1]: Ceci, Jason, et al. No Privacy in the Electronics Repair Industry. arXiv:2211.05824, arXiv, 10 Nov. 2022. arXiv.org, https://doi.org/10.48550/arXiv.2211.05824.
