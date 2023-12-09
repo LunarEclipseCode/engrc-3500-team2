@@ -21,24 +21,39 @@ parts:
     - file: content/samsung/adblocker/adblocker
     - file: content/samsung/color_blind_friendly/color_blind_friendly
     - file: content/samsung/maintenance_mode/maintenance_mode
+    - file: content/samsung/display_settings/blue_light_filter
+    - file: content/samsung/display_settings/helpful_display_settings
+    - file: content/samsung/emergency_sos/emergency_sos
+    - file: content/samsung/mobile_hotspot/mobile_hotspot
+    - file: content/samsung/reverse_wireless_charging/reverse_wireless_charging
+    - file: content/samsung/avoid_ram_extension/ram_extension
 
   - caption: Xiaomi
     chapters:
     - file: content/xiaomi/change_wallpaper/change_wallpaper
     - file: content/xiaomi/change_ringtone/change_ringtone
     - file: content/xiaomi/screenshot/screenshot
-    - file: content/xiaomi/app_update/app_date
+    - file: content/xiaomi/app_update/software_update
     - file: content/xiaomi/color_blind_friendly/color_blind_friendly
     - file: content/xiaomi/one_handed_mode/one_handed_mode
+    - file: content/xiaomi/display_settings/blue_light_filter
+    - file: content/xiaomi/display_settings/helpful_display_settings
   
   - caption: iPhone
     chapters:
     - file: content/iPhone/tutorial4-buttons
     - file: content/iPhone/tutorial1-downloading-apps-iphone
+    - file: content/iPhone/tutorial3-apple-id
     - file: content/iPhone/change_wallpaper/change_wallpaper
     - file: content/iPhone/change_ringtone/change_ringtone
+    - file: content/iPhone/display_settings/helpful_display_settings
     - file: content/iPhone/block_spam/block_spam
+    - file: content/iPhone/tutorial2-facetime
+    - file: content/iPhone/tutorial5-maps
+    - file: content/iPhone/mobile_hotspot/mobile_hotspot
     - file: content/iPhone/color_blind_friendly/color_blind_friendly
-    - file: content/iPhone/tutorial3-apple-id
+    - file: content/iPhone/battery_percent/battery_percent
+
+    
     
     
