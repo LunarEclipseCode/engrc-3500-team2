@@ -1,4 +1,4 @@
-## Notetaking on your Android Phone
+## Notetaking
 
 #### Downloading Keep
 

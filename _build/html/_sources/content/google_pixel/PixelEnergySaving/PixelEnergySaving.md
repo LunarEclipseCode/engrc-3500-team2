@@ -1,4 +1,4 @@
-## Battery Saving on your Android Phone
+## Battery Saving
 
 Do you feel like your phone is not lasting long enough? Maybe you wish your battery could be scretched a bit longer. Fortunately, Android has a feature that allows you to do just that! Navigate to your notifications tray by pulling down at the top of the screen and hold down on the battery saver button.
 

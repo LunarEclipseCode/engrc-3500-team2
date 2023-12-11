@@ -1,4 +1,4 @@
-## Notification Blocking on your Android Phone
+## Notification Blocking
 
 #### Do Not Disturb
 

@@ -1,4 +1,4 @@
-## Navigating with your Android Phone
+## Maps and Navigation
 
 #### Using Google Maps
 

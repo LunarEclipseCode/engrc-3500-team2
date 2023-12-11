@@ -1,4 +1,4 @@
-## Contacts on your Android Phone
+## Contacts
 
 
 #### Opening the phone app
