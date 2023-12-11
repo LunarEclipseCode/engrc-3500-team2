@@ -10,7 +10,12 @@ parts:
     - file: content/google_pixel/AndroidPlayStore/AndroidPlayStore
     - file: content/google_pixel/AndroidAccessibility/AndroidAccessibility
     - file: content/google_pixel/AndroidEmail/AndroidEmail
-  
+    - file: content/google_pixel/PixelContacts/PixelContacts
+    - file: content/google_pixel/PixelMaps/PixelMaps
+    - file: content/google_pixel/PixelNotification/PixelNotification
+    - file: content/google_pixel/PixelNotetaking/PixelNotetaking
+    - file: content/google_pixel/PixelEnergySaving/PixelEnergySaving
+
   - caption: Samsung
     chapters:
     - file: content/samsung/change_wallpaper/change_wallpaper

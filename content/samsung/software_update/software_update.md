@@ -2,7 +2,7 @@
 
 There are basically two forms of update in a smartphone. You can update your installed apps to get new features, better user experience, and to resolve potential issues you might have experienced with that app before. You can also update the overall software that's currently running on your phone. These second form of updates can be placed into two categories.
 
-* **Security Patches**: These are small updates that fixes underlying security vulnerabilities of your smartphone. These updates usually don't add new features. Smartphones these days get these minor updates until 3 to 4 years after its release.
+* **Security Patches**: These are small updates that fixes underlying security vulnerabilities of your smartphone. These updates usually don't add new features but they are still very important. For example, the December 2023 security patch for Android fixed 94 security vulnerabilities. [^1] Hackers are always trying to take advantage of these security issues to steal your personal information and so you should install these updates as soon as they are released.
 
 * **Android Version Update**: This is the major yearly update that adds lot of new features to your smartphone and improves the overall user interface. Most companies still offer only 2 years of Android version updates, however brands like Samsung and Google has recently started offering 4 years of Android version updates since the phone's release.
 
@@ -64,3 +64,5 @@ Now, the phone will restart and take some time to update. Your phone might even 
 <br></br>
 
 The main point is don't click on the power or volume buttons during the update process. Just wait until the phone shows the lock screen and congratuations! You have successfully updated your phone.
+
+[^1]: “Android Security Bulletin—December 2023,” Android Open Source Project. Available: https://source.android.com/docs/security/bulletin/2023-12-01

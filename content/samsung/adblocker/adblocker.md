@@ -5,9 +5,11 @@ These days many websites are infested with advertisements. The following post fr
 <img src="web_experience.png">
 <br></br>
 
-These ads not only reduces the web surfing experience, but also sometimes takes you to malicious sites if you accidentally click on it. You can block these annoying ads in websites very easily.
+These ads not only reduces the web surfing experience, but also sometimes takes you to malicious sites if you accidentally click on it. According to a study conducted by Juniper research, 22% of all online advertising spending was for scam advertisements., which is translates to a whopping 84 billion dollars spent for fraudulent ads. [^1] You can avoid these scam ads in websites very easily by just using an adblocker.
 
-On your phone, go to the list of apps and click on 'Play Store'. In play store, you will see a search bar at top.
+There are other benefits to using adblockers too. Many people have limited mobile data plan, and blocking the ads from loading can save you a lot of mobile data. A study conducted by Ender Analysis found that the ad content in newspaper websites accounted for about 50% of the mobile data used to load the website. [^2] Not to mention, blocking the ads would also mean faster loading time for websites. 
+
+You can install an adblocker in just a couple of steps. First, go to the list of apps on your phone and click on 'Play Store'. In play store, you will see a search bar at top.
 
 <img src="click_play_store.jpg" width="300">
 <img src="search_bar.png" width="300">
@@ -53,3 +55,6 @@ It will take couple of seconds to download ublock origin. Once finished, the mes
 <br></br>
 
 That's it! You have done it! 
+
+[^1]: “Ad Fraud Stats,” Business of Apps. Available: https://www.businessofapps.com/research/ad-fraud-statistics/
+[^2]: L. O’Reilly, “Ads on news sites gobble up as much as 79% of users’ mobile data,” Business Insider. Available: https://www.businessinsider.com/enders-analysis-ad-blocker-study-finds-ads-take-up-79-of-mobile-data-transfer-2016-3
