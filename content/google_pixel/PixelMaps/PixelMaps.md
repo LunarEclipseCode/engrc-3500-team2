@@ -19,7 +19,6 @@ After you've done this, you will see a search bar at the top. This search bar wi
 To find directions for your desired destination, click on Directions. This will show you the length of time it takes to get to you destination and allow you to start walking. Click start.
 
 <img src="viewingdirectiontoupson.png" width="300">
-<img src="startwalking.gif" width="300">
 <img src="walkingtoupson.png" width="300">
 
 The circle in the middle represents you and the dots show your path. Point yourself in the direction of the arrow and walk forward and Maps will lead you to where you need to be!
